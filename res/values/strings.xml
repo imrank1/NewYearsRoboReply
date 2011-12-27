@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, NewYearsRoboReplyActivity!</string>
+    <string name="app_name">NewYearsRoboReply</string>
+    <string name="On">Turn On</string>
+    <string name="Off">Turn Off</string>
+</resources>
